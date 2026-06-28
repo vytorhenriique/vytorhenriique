@@ -32,5 +32,6 @@
 
 ---
 
-⭐ Consider starring a repository. 
+⭐ Consider starring a repository.
+
 🤝 Always open to collaborations, partnerships, and cool ideas
